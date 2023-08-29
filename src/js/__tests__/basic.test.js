@@ -1,4 +1,4 @@
-import orderByProps from '../classes/basic';
+import orderByProps from '../basic';
 
 test.each(
   [
